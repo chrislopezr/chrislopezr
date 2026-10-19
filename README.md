@@ -1,9 +1,9 @@
 
 - Under construction -
 
-- 👋 Hi, I’m @chrislopezr
-- 👀 I’m interested in FINISHING MY PORTFOLIO.. JEEEZ
-- 🌱 I’m currently learning HOW TO DO IT, PROPERLY THIS TIME
+- 👋 Hi, I’m Chris
+- 👀 I’m interested in Cybersec, Machine Learning, IoT.
+- 🌱 I’m currently learning Microcontrollers, Radio/TelCo, Duits leren. 
 - 💞️ I’m looking to collaborate on DATA RELATED PROJECTS. Scraping, Data Wrangle, Analytics, Visualizations, Databases.
 - 📫 How to reach me: ChrisLopezRosales@gmail.com
 
